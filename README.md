@@ -4,6 +4,8 @@ This will help you to get the call history from the first day of the phone with 
 This app will fetch you and show/display the details of Call Log.
 This will show you all details of Call with Appropriate Day, Date and Time of call along with the Contact Number.
 
+## You can try by installing from bin - content.apk
+
 
 
 Thank You.
